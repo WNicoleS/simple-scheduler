@@ -14,6 +14,8 @@ Starter code from crispy-octo-meme.
 
 website: https://wnicoles.github.io/simple-scheduler/
 
+![work day](https://github.com/WNicoleS/simple-scheduler/assets/133277288/f76e2903-b7ac-4d81-84ab-303e9c10902e)
+
 ## License
 
 MIT License
