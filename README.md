@@ -12,6 +12,8 @@ Add tasks and deadlines to necessary hourly section. You can keep track of time 
 
 Starter code from crispy-octo-meme.
 
+website: https://wnicoles.github.io/simple-scheduler/
+
 ## License
 
 MIT License
