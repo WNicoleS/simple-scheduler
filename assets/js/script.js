@@ -183,7 +183,7 @@ $(function () {
     hour9.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 9) {
     hour9.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 9); {
+  } else if (hour.getHours() > 9); {
     hour9.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -191,7 +191,7 @@ $(function () {
     hour10.setAttribute("style","background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 10) {
     hour10.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 10); {
+  } else if (hour.getHours() > 10); {
     hour10.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -199,7 +199,7 @@ $(function () {
     hour11.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 11) {
     hour11.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 11); {
+  } else if (hour.getHours() > 11); {
     hour11.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -207,7 +207,7 @@ $(function () {
     hour12.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 12) {
     hour12.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 12); {
+  } else if (hour.getHours() > 12); {
     hour12.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -215,7 +215,7 @@ $(function () {
     hour1.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 13) {
     hour1.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 13); {
+  } else if (hour.getHours() > 13); {
     hour1.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -223,7 +223,7 @@ $(function () {
     hour2.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 14) {
     hour2.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 14); {
+  } else if (hour.getHours() > 14); {
     hour2.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -231,7 +231,7 @@ $(function () {
     hour3.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 15) {
     hour3.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 15); {
+  } else if (hour.getHours() > 15); {
     hour3.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -239,7 +239,7 @@ $(function () {
     hour4.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 16) {
     hour4.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 16); {
+  } else if (hour.getHours() > 16); {
     hour4.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
@@ -247,7 +247,7 @@ $(function () {
     hour5.setAttribute("style", "background-color: #ff6961; color: black;");
   } else if (hour.getHours() < 17) {
     hour5.setAttribute("style", "background-color: #77dd77; color: black;");
-  } if else (hour.getHours() > 17); {
+  } else if (hour.getHours() > 17); {
     hour5.setAttribute("style", "background-color: #d3d3d3; color: black;");
   };
 
