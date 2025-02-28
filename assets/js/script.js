@@ -116,8 +116,8 @@ $(function () {
   recentSave3();
 
   function recentSave3() {
-    var note2 = localStorage.getItem('note2');
-    textEl2.textContent = note2;
+    var note3 = localStorage.getItem('note3');
+    textEl3.textContent = note3;
   };
 
   btn3.addEventListener('click', function() {
